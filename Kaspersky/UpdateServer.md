@@ -15,14 +15,14 @@ Die eingabe von
 http://s13.upd.kaspersky.com/index.html 
   
 in den Browser führt einen auf eine nicht mehr ganz funktionierende Webseite mit weiteren Kaspersky Links.
-Anhand des Copyright hinweises ist zu sehen dass diese Seite noch aus Zeiten von 1997-2010 stammt.
+Anhand des Copyright hinweises ist zu sehen dass diese Seite noch aus Zeiten von 1997-2010 stammt. Links auf der Index.html Seite:
   
 https://docs.kaspersky-labs.com -> Benutzer- und Administratorhandbücher als PDF (uvm.)  
 https://products.kaspersky-labs.com -> direkter Download von Kaspersky Produkten  
 https://betaproducts.kaspersky-labs.com -> 403 Forbidden  
   
   
-Folgende weitere Domains/"Update Server" sind erreichbar:
+Folgende weitere Domains sind erreichbar:
   
 http://s10.upd.kaspersky.com/index/  
 http://s11.upd.kaspersky.com/index/  
