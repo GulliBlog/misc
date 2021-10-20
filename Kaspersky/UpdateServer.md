@@ -18,8 +18,12 @@ in den Browser führt einen auf eine nicht mehr ganz funktionierende Webseite mi
 Anhand des Copyright hinweises ist zu sehen dass diese Seite noch aus Zeiten von 1997-2010 stammt. Links auf der Index.html Seite:
   
 https://docs.kaspersky-labs.com -> Benutzer- und Administratorhandbücher als PDF (uvm.)  
-https://products.kaspersky-labs.com -> direkter Download von Kaspersky Produkten  
+https://products.kaspersky-labs.com -> Download(formular) für Kaspersky Produkte  
 https://betaproducts.kaspersky-labs.com -> 403 Forbidden  
+  
+Die "products." Seite wo man Kaspersky Produkte herunterladen kann, bezieht ihre Dateien von folgendem Dateiserver:  
+  
+https://arc-products.s.kaspersky-labs.com
   
   
 Folgende weitere Domains sind erreichbar:
