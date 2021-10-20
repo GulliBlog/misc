@@ -14,7 +14,7 @@ Die eingabe von
   
 http://s13.upd.kaspersky.com/index.html 
   
-in den Browser führt einen auf eine nicht mehr ganz funktionierende Webseite mit weiteren Kaspersky Links.
+in den Browser führt auf eine nicht mehr ganz funktionierende Webseite mit weiteren Kaspersky Links.
 Anhand des Copyright hinweises ist zu sehen dass diese Seite noch aus Zeiten von 1997-2010 stammt. Links auf der Index.html Seite:
   
 https://docs.kaspersky-labs.com -> Benutzer- und Administratorhandbücher als PDF (uvm.)  
